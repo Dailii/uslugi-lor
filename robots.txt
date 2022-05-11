@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+Host: www.lor.net.ru
+Sitemap: http://lor.net.ru/sitemap.xml
